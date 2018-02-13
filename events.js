@@ -25,7 +25,7 @@ function one () {
 // CREATE FUNCTION two HERE
 function two () {
   var two = document.getElementById('two')
-  two.addEventListener('mouseenter', makeGreen)
+  two.addEventListener('mouseenter', makegreen)
   two.addEventListener('mouseleave', makeWhite)
 }
 // CREATE FUNCTION three HERE
