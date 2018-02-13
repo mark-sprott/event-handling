@@ -8,6 +8,7 @@ function start () {
   // when you mouse over it.
   one()
   two()
+  three()
   // Your turn! Create a new function called `two`, then call it from here.
 }
 
