@@ -31,8 +31,8 @@ function two () {
 // CREATE FUNCTION three HERE
 function three () {
   var three = document.getElementById('three')
-  two.addEventListener('mouseenter', makeorange)
-  two.addEventListener('mouseleave', makeWhite)
+  three.addEventListener('mouseenter', makeorange)
+  three.addEventListener('mouseleave', makeWhite)
 }
 // CREATE FUNCTION four HERE
 
